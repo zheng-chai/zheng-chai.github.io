@@ -4,11 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-##Preprint
-1. **Zheng Chai**, Guangji Bai, Liang Zhao, Yue Cheng. [Distributed Graph Neural Network Training with Periodic Historical Embedding Synchronization] arXiv preprint arXiv:2206.00057 (2022)
-2. Junxiang Wang, Hongyi Li, **Zheng Chai**, Yongchao Wang, Yue Cheng, Liang Zhao. [Towards Quantized Model Parallelism for Graph-Augmented MLPs Based on Gradient-Free ADMM framework] arXiv preprint arXiv:2105.09837 (2021)
+## Preprint
+1. [Distributed Graph Neural Network Training with Periodic Historical Embedding Synchronization](https://arxiv.org/pdf/2206.00057). **Zheng Chai**, Guangji Bai, Liang Zhao, Yue Cheng.  arXiv preprint arXiv:2206.00057 (2022)
+2. [Towards Quantized Model Parallelism for Graph-Augmented MLPs Based on Gradient-Free ADMM framework](https://arxiv.org/pdf/2105.09837). Junxiang Wang, Hongyi Li, **Zheng Chai**, Yongchao Wang, Yue Cheng, Liang Zhao. arXiv preprint arXiv:2105.09837 (2021)
     
-##Published    
+## Published    
 1. [FedAT: A Communication-Efficient Federated Learning Method with Asynchronous Tiers under Non-IID Data](https://dl.acm.org/doi/pdf/10.1145/3458817.3476211). **Zheng Chai**, Yujing Chen, Ali Anwar, Liang Zhao, Yue Cheng, Huzefa Rangwala. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC 2021).
 2. [Toward Model Parallelism for Deep Neural Network basedon Gradient-free ADMM Framework.20th IEEE Internation](https://arxiv.org/pdf/2009.02868). Junxiang Wang, **Zheng Chai**, Yue Cheng, Liang Zhao. 20th IEEE International Conference on Data Mining (ICDM). IEEE, 2020.
 3. [Federated Multi-task Hierarchical Attention Model forSensor Analytics](https://arxiv.org/pdf/1905.05142). Yujing Chen, Yue Ning, **Zheng Chai**, Huzefa Rangwala. In 2020 International Joint Conference on Neural Networks (IJCNN). IEEE, 2020.
