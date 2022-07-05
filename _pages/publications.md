@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 ## Preprint
 1. [Distributed Graph Neural Network Training with Periodic Historical Embedding Synchronization](https://arxiv.org/pdf/2206.00057). **Zheng Chai**, Guangji Bai, Liang Zhao, Yue Cheng.  arXiv preprint arXiv:2206.00057 (2022)
