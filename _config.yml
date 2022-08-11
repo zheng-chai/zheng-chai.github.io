@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zheng Chai"
   avatar           : "profile.jpg"
-  bio              : "CS PhD candidate at George Mason University"
+  bio              : "CS PhD student at University of Virginia"
   location         : "Fairfax, VA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=z3FfVt0AAAAJ&hl=en"
-  email            :  "zchai2@gmu.edu"
+  email            :  "dub6yh@virginia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
