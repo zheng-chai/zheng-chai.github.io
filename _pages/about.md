@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a CS Ph.D. candidate at [George Mason University](https://www2.gmu.edu/), where I am supervised by [Prof. Yue Cheng](https://cs.gmu.edu/~yuecheng/).
+I am a CS Ph.D. student at [University of Virginia](https://www.virginia.edu/), where I am supervised by [Prof. Yue Cheng](https://cs.gmu.edu/~yuecheng/). Prior to joining the University of Virginia, I was a CS Ph.D. candidate at [George Mason University](https://www2.gmu.edu/), 
 
 My research interests are distributed machine learning systems, federated learning, high-performance computing. Specifically, my current research focuses on using serverless computing to expedite the training of graph neural network (GNN) without compromising performance.
 
